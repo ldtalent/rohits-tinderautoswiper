@@ -14,9 +14,4 @@
 7. locate the parent folder containing all the files. 
 
 
-## Working GIF 
-
-![ezgif com-video-to-gif 7](https://user-images.githubusercontent.com/32276134/46778695-7df3f900-cd32-11e8-8636-6df58ff56609.gif)
-
-
 ### Happy Swiping 
