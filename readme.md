@@ -2,6 +2,7 @@
 
  This plugin Automatically Swipes profile left and Right and can also open the profiles having insta account in New Tab
 
+[Link to learn on how to make chrome plugins](https://blog.learningdollars.com/2019/06/27/learn-basics-of-chrome-development-by-making-your-own-tinder-auto-swiper-chrome-extension/)
 
 ## To Add the extension manually 
 
@@ -15,3 +16,4 @@
 
 
 ### Happy Swiping 
+
